@@ -1,4 +1,4 @@
-<h1 align="center">hii i'm carrotgoodbye 👋</h1>
+<h1 align="center">hii i'm carrotgoodbye 🥕</h1>
 
 <p align="center">
 python developer • telegram bots • automation
@@ -36,10 +36,3 @@ lightweight wrapper over aiogram with simplified architecture
 
 - telegram: @carrotgoodbye
 - github: https://github.com/carrotgoodbye
-
----
-
-```python
-while others.watching:
-    pretend("I am a cool coder")
-```
